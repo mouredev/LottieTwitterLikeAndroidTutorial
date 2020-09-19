@@ -1,5 +1,5 @@
 # Tutorial Twitter Like con [Lottie](https://github.com/airbnb/lottie-android) en Android
-![](https://raw.githubusercontent.com/mouredev/LottieTwitterLikeAndroidTutorial/twitter_like_anim.png)
+![](https://raw.githubusercontent.com/mouredev/LottieTwitterLikeAndroidTutorial/master/twitter_like_anim.png)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.4-purple.svg?longCache=true&style=popout-square)]()
 [![Android Studio](https://img.shields.io/badge/Android_Studio-4+-green.svg?longCache=true&style=popout-square)]()
 
